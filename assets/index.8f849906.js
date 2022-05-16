@@ -1,0 +1,1 @@
+import{_ as t,c as r,a as n,F as s,b as a,o}from"./index.3ecfea84.js";const c={};function i(p,_){const e=a("z-progress");return o(),r(s,null,[n(e,{isAnimation:"",percentage:60}),n(e,{type:"circle",isAnimation:"",percentage:60}),n(e,{isAnimation:"","text-inside":!0,"stroke-width":22,percentage:80,status:"warning"})],64)}var l=t(c,[["render",i]]);export{l as default};

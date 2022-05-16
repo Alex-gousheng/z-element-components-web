@@ -1,0 +1,1 @@
+import{_ as r,c as o,a as t,F as n,b as _,o as a}from"./index.3ecfea84.js";const s={};function c(d,l){const e=_("z-trend");return a(),o(n,null,[t(e,{text:"\u9500\u552E\u989D",reverseColor:""}),t(e,{text:"\u8425\u4E1A\u989D",type:"down",reverseColor:""})],64)}var v=r(s,[["render",c],["__scopeId","data-v-2849e8b8"]]);export{v as default};

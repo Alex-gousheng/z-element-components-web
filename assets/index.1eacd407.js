@@ -1,0 +1,1 @@
+import{d as a,c as t,a as c,u as s,b as r,o as l}from"./index.3ecfea84.js";const m=a({setup(_){let n=e=>{console.log(e)};return(e,p)=>{const o=r("z-select-area");return l(),t("div",null,[c(o,{onChange:s(n)},null,8,["onChange"])])}}});export{m as default};
